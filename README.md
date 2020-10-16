@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... A data science project looking at various factors that affect water level in the Lake Michigan-Huron region
-- 🌱 I’m currently learning ... Python and Data Science
+- 🌱 I’m currently learning ... Python and data science
 - 👯 I’m looking to collaborate on ... any Python project 
 - 🤔 I’m looking for help with ... learning how to contribute to GitHub projects
 - 💬 Ask me about ... Python. It's the main programming language I know. 
