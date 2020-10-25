@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... I love doing artsy stuff like knitting, crocheting, scrapbooking, making cards, origami, creative writing and more. Basically anything other than drawing like a penguin or a stick person. That's it, folks. 
 
 ![Olivia's github stats](https://github-readme-stats.vercel.app/api?username=olivia1117&theme=shades-of-purple&show_icons=true)
-![Olivia's github stats](https://github-readme-stats.vercel.app/api?username=olivia1117&theme=fadedrose&show_icons=true)
+
