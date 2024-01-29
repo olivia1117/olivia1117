@@ -1,8 +1,8 @@
-# Olivia Adamic `:sparkles:`
+# Olivia Adamic :sparkles:
 
 **`Renaissance Programmer`** 
 
-Hi there and thanks for checking out my digital portfolio! I'm a computer science student at Lewis University who enjoys doing other little ~*sidequests*~ and dabbling in other areas of tech to further advance my skills. So far, I am working towards additional minors in mathematics and data science and an additional concentration in mobile computing. My main philopsophy is to continue learning as much as I can in as many fields as possible because I truly enjoy it and also because knowledge can intersect across so many studies. 
+Hi there and thanks for checking out my digital portfolio! I'm a computer science student at Lewis University who enjoys doing other little *sidequests* and dabbling in other areas of tech to further advance my skills. So far, I am working towards additional minors in mathematics and data science and an additional concentration in mobile computing. My main philopsophy is to continue learning as much as I can in as many fields as possible because I truly enjoy it and also because knowledge can intersect across so many studies. 
 
 ---
 
